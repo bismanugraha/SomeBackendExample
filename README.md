@@ -1,2 +1,2 @@
-# SpringBoot
-An example usage of Spring Boot
+# Backend Example
+An example usage of Backend using Spring Boot
